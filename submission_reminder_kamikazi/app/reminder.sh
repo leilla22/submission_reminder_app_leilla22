@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 # Source environment variables and helper functions
@@ -13,3 +14,4 @@ echo "Days remaining to submit: $DAYS_REMAINING days"
 echo "--------------------------------------------"
 
 check_submissions $submissions_file
+
